@@ -10,14 +10,21 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
 
+Table of Contents
+<<<<<<< HEAD
+Table of Contents qwertyuio
+=======
 Table of Contents q1w2e3r4t5y6u7i8o9
+>>>>>>> branch2
+=================
 commit1
 commit2
 commit3
 commit4
 commit5
-commit6 
-	[Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
+commit6
+ 
+     [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
